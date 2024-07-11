@@ -21,7 +21,7 @@
 
    >>sudo useradd baduser
    >>sudo passwd baduser
-   ![image](https://github.com/Black-5-Knight/Management-Tasks/assets/144364402/7de2d644-d32b-4818-aae1-7d0ffbed119d)
+  ![image](https://github.com/Black-5-Knight/Management-Tasks/assets/144364402/7de2d644-d32b-4818-aae1-7d0ffbed119d)
 
           
 4. Create a supplementary (Secondary) group called pgroup with group ID of 30000
